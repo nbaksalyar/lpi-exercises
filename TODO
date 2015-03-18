@@ -1,0 +1,7 @@
+Excercises TODO
+
+5-5: Write a program to verify that duplicated file descriptors share a file offset value
+and open file status flags.
+
+5-7: Implement readv() and writev() using read(), write(), and suitable functions from the
+malloc package (Section 7.1.2).
